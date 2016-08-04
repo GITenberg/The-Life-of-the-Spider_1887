@@ -1,0 +1,49 @@
+_repo: The-Life-of-the-Spider_1887
+_version: 0.0.1
+alternative_title: La vie des araignées. English
+contributor:
+  translator:
+    agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - Teixeira de Mattos, Alexander Louis
+    - Mattos, Alexander Teixeira de
+    - De Mattos, Alexander Teixeira
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+creator:
+  author:
+    agent_name: Fabre, Jean-Henri
+    aliases:
+    - Fabre, J. Henri
+    - Fabre, Jean Henri Casimir
+    - Fabre, Henri
+    birthdate: 1823
+    deathdate: 1915
+    gutenberg_agent_id: '735'
+    url: http://www.gutenberg.org/2009/agents/735
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Henri_Fabre
+description: 'Cover; Title Page; Copyright Page; Table of Contents; The Black-bellied
+  Tarantula; The Banded Epeira; The Narbonne Lycosa; The Narbonne Lycosa: the Burrow;
+  The Narbonne Lycosa: the Family; The Narbonne Lycosa: the Climbing-instinct; The
+  Spiders'' Exodus; The Crab Spider; The Garden Spiders: Building the Web; The Garden
+  Spiders: My Neighbour; The Garden Spiders: the Lime-snare; The Garden Spiders: the
+  Telegraph-wire; The Garden Spiders: Pairing and Hunting; The Garden Spiders: the
+  Question of Property; The Labyrinth Spider; The Clotho Spider; Appendix: the Geometry
+  of the Epeira''s Web.'
+gutenberg_bookshelf: Animals-Wild
+gutenberg_issued: '1999-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1887'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiders'
+- !lcc 'QL'
+- GITenberg
+title: The Life of the Spider
+url: http://www.gutenberg.org/ebooks/1887
