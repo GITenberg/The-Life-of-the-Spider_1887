@@ -1,5 +1,5 @@
 _repo: The-Life-of-the-Spider_1887
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: La vie des araignées. English
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     deathdate: 1921
     gutenberg_agent_id: '736'
     url: http://www.gutenberg.org/2009/agents/736
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fabre, Jean-Henri
@@ -32,6 +35,8 @@ description: 'Cover; Title Page; Copyright Page; Table of Contents; The Black-be
   Telegraph-wire; The Garden Spiders: Pairing and Hunting; The Garden Spiders: the
   Question of Property; The Labyrinth Spider; The Clotho Spider; Appendix: the Geometry
   of the Epeira''s Web.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1887#The-Life-of-the-Spider
 gutenberg_bookshelf: Animals-Wild
 gutenberg_issued: '1999-09-01'
 gutenberg_type: Text
